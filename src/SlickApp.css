@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+    color: white;
+}
+.App{
+    margin: 0px 50px;
+    height: 50%;
+    width: 95%;
+}
+
+img{
+    height: 100vh;
+}
+
+.App_2{
+    position: relative;
+}
